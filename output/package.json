@@ -1,0 +1,11 @@
+{
+  "name": "baiduindex",
+  "version": "1.0.0",
+  "description": "baidu index page.",
+  "main": "fis-conf-no-std.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "howard",
+  "license": "ISC"
+}
